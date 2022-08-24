@@ -1,3 +1,7 @@
+![alt text](https://www.freepik.com/free-photos-vectors/under-construction, "Title")
+
+
+
 👋 Hi, I’m Zhi Hao
 Currently working as a Data Scientist in UTAR 
 <br />
